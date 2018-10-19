@@ -1,0 +1,8 @@
+integer division or modulo by zeroTraceback (most recent call last):
+  File "iperf_bandwidth.py", line 34, in <module>
+    a = 2 / 0
+ZeroDivisionError: integer division or modulo by zero
+integer division or modulo by zeroTraceback (most recent call last):
+  File "iperf_bandwidth.py", line 34, in <module>
+    a = 2 / 0
+ZeroDivisionError: integer division or modulo by zero
